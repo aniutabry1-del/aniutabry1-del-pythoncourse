@@ -1,2 +1,2 @@
 # aniutabry1-del-pythoncourse
-hw for python
+домашка по питону для курса в вышке
